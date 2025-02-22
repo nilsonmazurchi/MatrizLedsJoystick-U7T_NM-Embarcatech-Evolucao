@@ -1,7 +1,7 @@
 ﻿# Controle de Matriz LED e Display OLED com Joystick - Embarcatech
 
-![Demo Project](https://img.youtube.com/vi/SEU_VIDEO_ID/0.jpg)  
-*(Vídeo demonstrativo - substitua pelo link real)*
+## ![alt text](image.png) Apresentação do Projeto
+ 
 
 ## 🚀 Funcionalidades Principais
 - **Controle direcional com Joystick**:
@@ -48,7 +48,7 @@ cd projeto-matriz-oled
 | Joystick (Eixo Y)| GPIO27    | ADC1       |
 | OLED SDA         | GPIO14    | I2C1       |
 | OLED SCL         | GPIO15    | I2C1       |
-| Matriz LED DATA  | GPIO0     | PIO0       |
+| Matriz LED DATA  | GPIO07    | PIO0       |
 
 ## 🎮 Como Usar
 ### **Inicialização**:
@@ -86,5 +86,5 @@ cd projeto-matriz-oled
 **MIT License** - Consulte o arquivo [LICENSE](LICENSE) para detalhes.  
 
 **Desenvolvido por** Nilson Mazurchi  
-**Mentoria Embarcatech** - 2024  
-🚀 [Veja outros projetos](https://github.com/seu-usuario)
+**Mentoria Embarcatech** - 2025  
+🚀 [Veja outros projetos](https://github.com/nilsonmazurchi?tab=repositories)
